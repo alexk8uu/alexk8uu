@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Fredy Alejandro Carrizo</h1>
 <h3 align="center">Full Stack Developer 👩‍💻 de Argentina 💙</h3>
 
-<img  alt="coding" width="40" scr="https://i0.wp.com/digitalpolicylaw.com/wp-content/uploads/2021/09/dplnews_inteligencia-artificial_mc100921.gif?fit=800%2C600&ssl=1">
+<img  aling="center "alt="coding" width="40" scr="https://i0.wp.com/digitalpolicylaw.com/wp-content/uploads/2021/09/dplnews_inteligencia-artificial_mc100921.gif?fit=800%2C600&ssl=1">
 
 - 🌱 Actualmente me encuentro cursando **en SoyHenry! 🧠🦾**
 
