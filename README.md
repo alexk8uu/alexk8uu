@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Fredy Alejandro Carrizo</h1>
 <h3 align="center">Full Stack Developer 👩‍💻 de Argentina 💙</h3>
 
-<img align="center" src="https://diocesanos.es/blogs/equipotic/wp-content/uploads/sites/2/2020/06/banner_7.gif" alt="coding" height="200" width="1200"/>
+<img align="center" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" height="200" width="1200"/>
 
 
 - 🌱 Actualmente me encuentro cursando **en SoyHenry! 🧠🦾**
