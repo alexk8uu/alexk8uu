@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Fredy Alejandro Carrizo</h1>
 <h3 align="center">Full Stack Developer 👩‍💻 de Argentina 💙</h3>
 
-<img  alt="coding" width="600" scr="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img  alt="coding" width="40" scr="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 - 🌱 Actualmente me encuentro cursando **en SoyHenry! 🧠🦾**
 
