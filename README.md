@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Fredy Alejandro Carrizo</h1>
 <h3 align="center">Full Stack Developer 👩‍💻 de Argentina 💙</h3>
 
-<img align="center" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" height="600" width="1200"/>
+<img align="center" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" height="500" width="1000"/>
 
 
 - 🌱 Actualmente me encuentro cursando **en SoyHenry! 🧠🦾**
