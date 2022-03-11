@@ -4,7 +4,7 @@
 
 <img align="center" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" height="500" width="1000"/>
 
-- **Sobre mi**
+- <h3>**Sobre mi**</h3>
 - 🌱 Actualmente me encuentro cursando **en #SoyHenry! 🧠🦾**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/alexk8uu](https://github.com/alexk8uu)
