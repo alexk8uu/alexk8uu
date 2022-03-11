@@ -1,3 +1,4 @@
+
 <h1 align="center">Hola 👋, Soy Fredy Alejandro Carrizo</h1>
 <h3 align="center">Full Stack Developer 👩‍💻 de Argentina 💙</h3>
 
@@ -16,6 +17,9 @@
 <h3 align="left">Contactame:  </h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexk8uu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexk8uu" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://portafolio-three-lilac.vercel.app" target="blank"><img align="center" src="https://ibb.co/hMz2F53" alt="alexk8uu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
