@@ -6,7 +6,7 @@
 <img align="center" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" height="500" width="1000"/>
 
 - <h3>Sobre mi</h3>
-- 🌱 Actualmente me encuentro cursando **en #SoyHenry! 🧠🦾**
+- 🌱 Me forme con como Full Stack Developer **en #SoyHenry! 🧠🦾**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/alexk8uu](https://github.com/alexk8uu)
 
@@ -14,7 +14,7 @@
 
 - 📫 Como contactarme **fredyalejandrocarrizo@gmail.com**
 
-<h3 align="left">Contactame:  </h3>
+<h3 align="left">Visita mi Linkedin y mi  </h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/alexk8uu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexk8uu" height="30" width="40" /></a>
