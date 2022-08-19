@@ -18,7 +18,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/alexk8uu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexk8uu" height="30" width="40" /></a>
-<a href="https://portafolio-three-lilac.vercel.app" target="blank"><img src="./utils/web.png" alt="alexk8uu" height="40" width="40" /></a>
+<a href="https://portafolio-fredy-alejandro.vercel.app/" target="blank"><img src="./utils/web.png" alt="alexk8uu" height="40" width="40" /></a>
 </p>
 
 
