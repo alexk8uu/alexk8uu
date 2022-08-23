@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer 👩‍💻 de Argentina 💙</h3>
 
 
-<img align="center" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" height="500" width="1000"/>
+<img align="center" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" height="500" width="800"/>
 
 - <h3>Sobre mi</h3>
 - 🌱 Me forme con como Full Stack Developer **en #SoyHenry! 🧠🦾**
